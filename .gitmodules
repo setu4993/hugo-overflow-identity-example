@@ -1,0 +1,4 @@
+[submodule "themes/hugo-overflow-identity"]
+    path = themes/hugo-overflow-identity
+    url = https://github.com/setu4993/hugo-overflow-identity.git
+    branch = main

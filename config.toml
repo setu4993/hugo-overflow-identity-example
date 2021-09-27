@@ -1,10 +1,10 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = "https://hugo-overflow-identity.netlify.app"
+languageCode = "en-us"
 title = "Yosemite National Park"
 theme = "hugo-overflow-identity"
 
 [params]
-    authorName = 'Setu Shah'
+    authorName = "Setu Shah"
     description = "A demo page for the Hugo Overflow Identity theme."
     favicon = "images/favicon.png"
 

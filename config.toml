@@ -27,9 +27,10 @@ theme = "hugo-overflow-identity"
         name="GitHub"
 
     [[params.footer.social]]
-        link="https://twitter.com/"
-        icon="fab fa-twitter"
-        name="Twitter"
+        link="https://mastodon.social"
+        icon="fab fa-mastodon"
+        name="Mastodon"
+        rel="me"
 
     [[params.footer.social]]
         link="https://www.linkedin.com/"

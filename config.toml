@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Yosemite National Park"
 theme = "hugo-overflow-identity"
 
+[minify]
+  minifyOutput = true
+
 [params]
     authorName = "Setu Shah"
     description = "A demo page for the Hugo Overflow Identity theme."

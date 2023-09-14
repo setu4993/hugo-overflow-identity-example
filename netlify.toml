@@ -7,19 +7,6 @@
     HUGO_VERSION = "0.72.0"
     HUGO_ENABLEGITINFO = "true"
 
-[build.processing]
-    skip_processing = false
-[build.processing.css]
-    bundle = true
-    minify = true
-[build.processing.js]
-    bundle = true
-    minify = true
-[build.processing.html]
-    pretty_urls = true
-[build.processing.images]
-    compress = true
-
 # Opt out of Google FLoC.
 # https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network
 [[headers]]

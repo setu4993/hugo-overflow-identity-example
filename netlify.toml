@@ -4,7 +4,7 @@
     command = "hugo --gc --minify"
 
 [build.environment]
-    HUGO_VERSION = "0.72.0"
+    HUGO_VERSION = "0.118.2"
     HUGO_ENABLEGITINFO = "true"
 
 # Opt out of Google FLoC.

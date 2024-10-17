@@ -14,7 +14,7 @@ theme = "hugo-overflow-identity"
     [params.header]
         title = "Yosemite National Park"
         description = "Half Dome"
-        avatar = "images/avatar.jp2"
+        avatar = "images/avatar.webp"
 
     [params.footer]
         copyright = "Setu Shah"
